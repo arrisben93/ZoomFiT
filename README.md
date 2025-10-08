@@ -6,12 +6,12 @@
 
 ## 1. Informations Générales du Projet
 
-**Nom du projet :** FitTracker  
+**Nom du projet :** ZoomFiT  
 **Type d'application :** Application web full-stack  
 **Domaine :** Suivi fitness et nutrition personnel  
 **Formation :** Techniques de l'informatique 420.B0 - Institut Teccart  
 **Étudiant :** Ariss Benabbas  
-**Période de réalisation :** 9 semaines (1 oct - 5 déc 2025)
+**Période de réalisation :** 9 semaines 
 
 ---
 
@@ -41,7 +41,7 @@ FitTracker est une application web intuitive permettant aux utilisateurs de suiv
 ### Objectifs pédagogiques :
 - Appliquer les compétences en développement full-stack
 - Utiliser React pour une interface moderne
-- Implémenter Node.js et Express.js côté serveur
+- Implémenter Node.js côté serveur
 - Gérer une base de données MongoDB
 - Appliquer les bonnes pratiques de sécurité web
 
