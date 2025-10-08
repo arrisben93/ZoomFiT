@@ -309,5 +309,3 @@ Ces wireframes fournissent une base solide pour le développement de l'interface
 4. Tests utilisateurs sur les prototypes
 
 ---
-
-**Note :** Ces wireframes sont conçus pour être simples à implémenter avec vos compétences actuelles en React et Bootstrap, tout en offrant une expérience utilisateur moderne et professionnelle.
