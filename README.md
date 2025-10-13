@@ -417,15 +417,7 @@ FitTracker est une application web intuitive permettant aux utilisateurs de suiv
 - Documentation React officielle
 - Documentation MongoDB
 - Tutoriels Chart.js
-- Stack Overflow pour résolution de problèmes
-
----
-
-## Conclusion
-
-Ce projet FitTracker représente une excellente opportunité d'appliquer concrètement toutes les compétences acquises durant votre formation. Il est conçu pour être réalisable dans les 9 semaines imparties tout en offrant suffisamment de défis techniques pour démontrer votre maîtrise du développement full-stack.
-
-L'application finale sera un produit complet et fonctionnel qui pourra figurer dans votre portfolio professionnel et démontrer vos compétences aux futurs employeurs.
+- Stack Overflow pour résolution de problème
 
 ---
 
